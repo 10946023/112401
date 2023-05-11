@@ -1,5 +1,3 @@
 print("112401")
-#test
-#practice
-#I committed it by my personal Github account this time.
+#example
 #10946020
